@@ -1,6 +1,6 @@
 You will create a 90-day personal DevOps learning plan that clearly defines:
 
-What is your understanding of DevOps and Cloud Engineering?
+1) What is your understanding of DevOps and Cloud Engineering?
 
 DevOps is about the Process. 
 It is a set of practices and tools used to automate the software development lifecycle, 
@@ -26,14 +26,14 @@ Resource Management: Provisioning virtual machines, databases, and storage (e.g.
 Cost Optimization: Monitoring and adjusting cloud usage to prevent budget overruns.
 Security: Implementing identity management (IAM), encryption, and compliance guardrails. 
 
-Why you are starting learning DevOps & Cloud?
+2) Why you are starting learning DevOps & Cloud?
 
 To get Job and flexibility to work independently while maintaining worklife balance.
 
-Where do you want to reach?
+3) Where do you want to reach?
 
 Expert in DevOps Concept with lots of freelancing/remote opportunities.
 
-How you will stay consistent every single day?
+4) How you will stay consistent every single day?
 
 Devoting min 2 hrs study daily for next 3 months 
